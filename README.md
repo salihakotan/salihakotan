@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **C# Mobile Game Development**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **frontend**
 
 - 📫 How to reach me **salihakotan77@gmail.com**
 
